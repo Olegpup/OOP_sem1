@@ -1,0 +1,13 @@
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\bin\Debug\netcoreapp3.1\lab_1_cs.exe
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\bin\Debug\netcoreapp3.1\lab_1_cs.deps.json
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\bin\Debug\netcoreapp3.1\lab_1_cs.runtimeconfig.json
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\bin\Debug\netcoreapp3.1\lab_1_cs.runtimeconfig.dev.json
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\bin\Debug\netcoreapp3.1\lab_1_cs.dll
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\bin\Debug\netcoreapp3.1\lab_1_cs.pdb
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\obj\Debug\netcoreapp3.1\lab_1_cs.csprojAssemblyReference.cache
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\obj\Debug\netcoreapp3.1\lab_1_cs.AssemblyInfoInputs.cache
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\obj\Debug\netcoreapp3.1\lab_1_cs.AssemblyInfo.cs
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\obj\Debug\netcoreapp3.1\lab_1_cs.csproj.CoreCompileInputs.cache
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\obj\Debug\netcoreapp3.1\lab_1_cs.dll
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\obj\Debug\netcoreapp3.1\lab_1_cs.pdb
+D:\КПИ\ООП\Лабы\lab_1\lab_1_cs\obj\Debug\netcoreapp3.1\lab_1_cs.genruntimeconfig.cache
