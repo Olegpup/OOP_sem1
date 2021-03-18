@@ -1,0 +1,9 @@
+D:\КПИ\ООП\Лабы\laba_2_lib\bin\Debug\netcoreapp3.1\laba_2_lib.deps.json
+D:\КПИ\ООП\Лабы\laba_2_lib\bin\Debug\netcoreapp3.1\laba_2_lib.dll
+D:\КПИ\ООП\Лабы\laba_2_lib\bin\Debug\netcoreapp3.1\laba_2_lib.pdb
+D:\КПИ\ООП\Лабы\laba_2_lib\obj\Debug\netcoreapp3.1\laba_2_lib.csprojAssemblyReference.cache
+D:\КПИ\ООП\Лабы\laba_2_lib\obj\Debug\netcoreapp3.1\laba_2_lib.AssemblyInfoInputs.cache
+D:\КПИ\ООП\Лабы\laba_2_lib\obj\Debug\netcoreapp3.1\laba_2_lib.AssemblyInfo.cs
+D:\КПИ\ООП\Лабы\laba_2_lib\obj\Debug\netcoreapp3.1\laba_2_lib.csproj.CoreCompileInputs.cache
+D:\КПИ\ООП\Лабы\laba_2_lib\obj\Debug\netcoreapp3.1\laba_2_lib.dll
+D:\КПИ\ООП\Лабы\laba_2_lib\obj\Debug\netcoreapp3.1\laba_2_lib.pdb
