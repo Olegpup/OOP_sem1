@@ -1,0 +1,2 @@
+D:\КПИ\ООП\Лабы\lab_5\lab_5_cpp\Debug\lab_5_cpp.exe
+D:\КПИ\ООП\Лабы\lab_5\lab_5_cpp\Debug\lab_5_cpp.pdb
