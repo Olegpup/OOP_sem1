@@ -1,0 +1,2 @@
+D:\КПИ\ООП\Лабы\lab_6\Debug\lab_6.exe
+D:\КПИ\ООП\Лабы\lab_6\Debug\lab_6.pdb
