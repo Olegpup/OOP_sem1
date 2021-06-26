@@ -1,0 +1,13 @@
+D:\КПИ\ООП\Лабы\lab_9_cs\bin\Debug\netcoreapp3.1\lab_9_cs.exe
+D:\КПИ\ООП\Лабы\lab_9_cs\bin\Debug\netcoreapp3.1\lab_9_cs.deps.json
+D:\КПИ\ООП\Лабы\lab_9_cs\bin\Debug\netcoreapp3.1\lab_9_cs.runtimeconfig.json
+D:\КПИ\ООП\Лабы\lab_9_cs\bin\Debug\netcoreapp3.1\lab_9_cs.runtimeconfig.dev.json
+D:\КПИ\ООП\Лабы\lab_9_cs\bin\Debug\netcoreapp3.1\lab_9_cs.dll
+D:\КПИ\ООП\Лабы\lab_9_cs\bin\Debug\netcoreapp3.1\lab_9_cs.pdb
+D:\КПИ\ООП\Лабы\lab_9_cs\obj\Debug\netcoreapp3.1\lab_9_cs.csprojAssemblyReference.cache
+D:\КПИ\ООП\Лабы\lab_9_cs\obj\Debug\netcoreapp3.1\lab_9_cs.AssemblyInfoInputs.cache
+D:\КПИ\ООП\Лабы\lab_9_cs\obj\Debug\netcoreapp3.1\lab_9_cs.AssemblyInfo.cs
+D:\КПИ\ООП\Лабы\lab_9_cs\obj\Debug\netcoreapp3.1\lab_9_cs.csproj.CoreCompileInputs.cache
+D:\КПИ\ООП\Лабы\lab_9_cs\obj\Debug\netcoreapp3.1\lab_9_cs.dll
+D:\КПИ\ООП\Лабы\lab_9_cs\obj\Debug\netcoreapp3.1\lab_9_cs.pdb
+D:\КПИ\ООП\Лабы\lab_9_cs\obj\Debug\netcoreapp3.1\lab_9_cs.genruntimeconfig.cache
